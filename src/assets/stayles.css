@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply py-2 px-8 rounded-md text-primary-color bg-primary-blue-color font-bold border-2 border-primary-blue-color hover:text-primary-blue-color hover:bg-transparent duration-500;
+  }
+  .btn-secondary {
+    @apply py-2 px-8 rounded-md text-primary-blue-color bg-transparent font-bold border-2 border-primary-blue-color hover:text-primary-color hover:bg-primary-blue-color duration-500;
+  }
+  .tiltle{
+    @apply text-4xl text-center pt-24 font-bold text-normal-white-color mb-7 ;
+  }
+  .projectbtns-primary{
+    @apply py-2 px-8 text-primary-blue-color bg-transparent font-bold duration-500;
+  }
+  .projectbtns-secondary{
+    @apply py-2 px-8 text-primary-color bg-primary-blue-color font-bold duration-500 cursor-pointer;
+  }
+}

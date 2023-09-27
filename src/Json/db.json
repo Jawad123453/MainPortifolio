@@ -1,0 +1,70 @@
+[
+  {"Css":[
+    { "src": "PureCssP1.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/Clipboard-landing-page/" },
+    { "src": "PureCssP2.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/Huddle-landing-page-with-alternating-feature-blocks/" },
+    { "src": "PureCssP3.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/Fylo-landing-page-with-two-column-layout/" },
+    { "src": "PureCssP4.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/Huddle-landing-page-with-curved-sections/" },
+    { "src": "PureCssP5.png", "ditales": "Serving Page from freecodecamp website", "smalllink": "https://jawad123453.github.io/FreeCodeCamp-Survey-Form/" },
+    { "src": "PureCssP6.png", "ditales": "JS Documentation website from freecodecamp website", "smalllink": "https://jawad123453.github.io/JS-Documentation/" },
+    { "src": "PureCssP7.png", "ditales": "Small pertifolo website from freecodecamp website ", "smalllink": "https://jawad123453.github.io/Freecodecamp-project-5/" },
+    { "src": "PureCssP8.png", "ditales": "This project is from a designer name 'Elzero'", "smalllink": "https://jawad123453.github.io/Casper/" },
+    { "src": "PureCssP9.png", "ditales": "This project is from a designer name 'Elzero'", "smalllink": "https://jawad123453.github.io/ezlero-project-1/" },
+    { "src": "PureCssP10.png", "ditales": "This project is from a designer name 'Elzero'", "smalllink": "https://jawad123453.github.io/elzero-project-3/" },
+    { "src": "tailwindcssP1.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/tailwind-frontendmentore-project-1/" },
+    { "src": "BootstrapP1.png", "ditales": "This project is from a designer name 'Elzero'", "smalllink": "https://jawad123453.github.io/ezlero-bootstarp-project-1/" }
+  ]
+  },
+  {"Js":[
+    { "src": "JSWOP1.png", "ditales": "Rock Papper Scissor from Frontend mentore website, Advance Level", "smalllink": "https://jawad123453.github.io/Rock-Paper-Scissors-game/" },
+    { "src": "JSWP2.png", "ditales": "REST-Countries-API from Frontend mentore website, Advance Level", "smalllink": "https://jawad123453.github.io/REST-Countries-API-with-color-theme-switcher/"},
+    { "src": "JSWP3.png", "ditales": "A shortening links from Frontend mentore website, Advance Level", "smalllink": "https://jawad123453.github.io/URL-shortening-API-landing-page/" },
+    { "src": "JSWP4.png", "ditales": "A genarate qoutes from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/Advice-generator-app/" },
+    { "src": "JSSP1.png", "ditales": "A small project to genarate qoutes", "smalllink": "https://jawad123453.github.io/js-project-Quote/" },
+    { "src": "JSSP2.png", "ditales": "A project to download whatever file type you want", "smalllink": "https://jawad123453.github.io/download-file-projects-js/" },
+    { "src": "JSSP3.png", "ditales": "Js Dictionary app", "smalllink": "https://jawad123453.github.io/js-Dictionary/" },
+    { "src": "JSSP4.png", "ditales": "Js Translation app", "smalllink": "https://jawad123453.github.io/Translation-js-project/" },
+    { "src": "JSSP5.png", "ditales": "Js Tags app I made just for fun :)", "smalllink": "https://jawad123453.github.io/Tags-js-project/" },
+    { "src": "JSSP6.png", "ditales": "Ararm Js project", "smalllink": "https://jawad123453.github.io/Aram-js-project/" },
+    { "src": "JSSP7.png", "ditales": "Captcha Js project", "smalllink": "https://jawad123453.github.io/js-project-Captcha-in-JavaScript/" },
+    { "src": "JSSP8.png", "ditales": "Hangman game made by Js", "smalllink": "https://jawad123453.github.io/Hangman-js-game/" },
+    { "src": "JSSP9.png", "ditales": "CRUDS Js project", "smalllink": "https://jawad123453.github.io/CRUDS-js-project/" },
+    { "src": "JSSP10.png", "ditales": "Typing Speed Test Game js project", "smalllink": "https://jawad123453.github.io/Typing-Speed-Test-Game-js-project/" },
+    { "src": "JSSP11.png", "ditales": "A samll XO game just for fun", "smalllink": "https://jawad123453.github.io/X-O-js-Gane/" },
+    { "src": "JSSP12.png", "ditales": "VISA Card made by js and vue", "smalllink": "https://jawad123453.github.io/VISA-Card-js-vue-project/" },
+    { "src": "JSSP13.png", "ditales": "A small Js game to find the similer cards(momory game)", "smalllink": "https://jawad123453.github.io/Find-The-Card-js-pproject-game/" },
+    { "src": "JSSP14.png", "ditales": "Simple Calculater js app", "smalllink": "https://jawad123453.github.io/Simple-Calculater-js-project/" },
+    { "src": "JSSP15.png", "ditales": "Palindorme Checker js project", "smalllink": "https://jawad123453.github.io/Palindorme-Checker-js-project/" },
+    { "src": "JSSP16.png", "ditales": "A project got it from the initeret that allow you to create as you want", "smalllink": "https://jawad123453.github.io/Create-as-mush-js-project/" },
+    { "src": "JSSP17.png", "ditales": "Clock js project", "smalllink": "https://jawad123453.github.io/Clock-js-project/" }
+    ]
+  },
+  {"Vue":[
+    { "src": "VUEP1.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/small-project-vue-weather-app/" },
+    { "src": "VUEP2.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/to-do-list-small-vue-project/" },
+    { "src": "VUEP3.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/Income-Tracker-vue-project-/" },
+    { "src": "VUEP4.png", "ditales": "A small project from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/Random-Meals-vue-app-/" },
+    { "src": "VUEP5.png", "ditales": "A project from Youtube made in TS", "smalllink": "https://jawad123453.github.io/gym-vue-website/" },
+    { "src": "VUEP6.png", "ditales": "A project from Youtube made in TS", "smalllink": "https://jawad123453.github.io/small-vue-project-for-fun/" },
+    { "src": "VUEP7.png", "ditales": "A project from Youtube made in TS", "smalllink": "https://jawad123453.github.io/vue-Quiz-app-for-fun/" },
+    { "src": "VUEP8.png", "ditales": "A project from Youtube made with Vuetify", "smalllink": "https://jawad123453.github.io/DashBeord-vue-web/" }
+    ]
+  },
+  {"Random":[
+    { "src": "RC1.png", "ditales": "A fun css project with nice hover effect", "smalllink": "https://jawad123453.github.io/random-css-project-for-fun/" },
+    { "src": "RC2.png", "ditales": "A portifolo website", "smalllink": "https://jawad123453.github.io/Portfolio-css-website/" },
+    { "src": "RC3.png", "ditales": "Flyo project css from Frontend mentore website, Junior Level", "smalllink": "https://jawad123453.github.io/Flyo-project-css/" },
+    { "src": "RC4.png", "ditales": "Socailbook Css project project no js in it ", "smalllink": "https://jawad123453.github.io/Socailbook-css-project/" },
+    { "src": "RC5.png", "ditales": "Small css Card that looks good", "smalllink": "https://jawad123453.github.io/small-checkout-css-project/" },
+    { "src": "RJ1.png", "ditales": "A small project changes its background when click", "smalllink": "https://jawad123453.github.io/download-img-p1-js/" },
+    { "src": "RJ2.png", "ditales": "A small project changes its background on what you choose", "smalllink": "https://jawad123453.github.io/download-img-p2-js/" },
+    { "src": "RJ3.png", "ditales": "Simple photoshop project using filters in css", "smalllink": "https://jawad123453.github.io/simple-photoshop-project/" },
+    { "src": "RJ4.png", "ditales": "A small project with a rang input in it", "smalllink": "https://jawad123453.github.io/small-product-shap-js/" },
+    { "src": "RJ5.png", "ditales": "Hello There :)", "smalllink": "https://jawad123453.github.io/justforfun-vue-js-proejct/" },
+    { "src": "RJ6.png", "ditales": "Gradient Preview Js app", "smalllink": "https://jawad123453.github.io/Gradient-Preview-js-app/" },
+    { "src": "RJ7.png", "ditales": "Typing Speed Test Js Game", "smalllink": "https://jawad123453.github.io/Typing-Speed-Test-Game-js-apRandom/" },
+    { "src": "RJ8.png", "ditales": "Random Number Genarator", "smalllink": "https://jawad123453.github.io/Random-number-js-app-for-fun/" },
+    { "src": "RJ9.png", "ditales": "Random Numbers Genarator", "smalllink": "https://jawad123453.github.io/Generate-a-random-password-js-app/" },
+    { "src": "RV9.png", "ditales": "Loading view using vue", "smalllink": "https://jawad123453.github.io/Anotherrandom-vue-js-project/" }
+    ]
+  }
+]
