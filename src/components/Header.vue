@@ -1,19 +1,17 @@
 <!-- eslint-disable vue/multi-word-component-names -->
-<script>
+<script setup>
 // eslint-disable-next-line no-unused-vars
-import { RouterLink } from 'vue-router'
-export default {
-    data() {
-      return {
-        listvalue: true,
-      }
-  },
-  methods: {
-    changethev() {
-      this.listvalue=!this.listvalue
-    },
-  },
-    }
+import { ref } from 'vue';
+
+const listvalue = ref(true);
+
+const changethev = () => {
+  listvalue.value = !listvalue.value;
+};
+
+// const changeittofalse = () =>{
+//   listvalue.value = false
+// }
 </script>
 
 <template>
@@ -25,10 +23,10 @@ export default {
       <i class="fa-solid fa-bars-staggered text-main-list-color text-2xl font-bold cursor-pointer hover:text-primary-blue-color duration-500 sm:hidden block" @click="changethev"></i>
       <ul class="flex z-10 sm:bg-inherit sm:flex-row flex-col sm:gap-5 h-screen absolute top-0 right-0 text-center shadow-lg w-64 gap-6 bg-big-blue-color sm:w-auto sm:relative sm:h-auto sm:shadow-none" :class="{ disappear: listvalue }">
       <i class="fa-regular fa-circle-xmark absolute top-5 right-5 hover:text-primary-blue-color text-main-list-color text-2xl sm:hidden" @click="changethev"></i>
-        <li class="mt-14 sm:mt-0" @click="changethev"><RouterLink to="/" class="text-main-list-color text-lg font-bold cursor-pointer hover:text-primary-blue-color">Home</RouterLink></li>
-        <li  @click="changethev"><RouterLink to="/about" class="text-main-list-color text-lg font-bold cursor-pointer hover:text-primary-blue-color duration-500">About</RouterLink></li>
-        <li  @click="changethev"><RouterLink to="/Projects" class="text-main-list-color text-lg font-bold cursor-pointer hover:text-primary-blue-color duration-500">Projects</RouterLink></li>
-        <li  @click="changethev"><RouterLink to="/Contact" class="text-main-list-color text-lg font-bold cursor-pointer hover:text-primary-blue-color duration-500">Contact</RouterLink></li>
+        <li class="mt-14 sm:mt-0"><RouterLink to="/" class="text-main-list-color text-lg font-bold cursor-pointer hover:text-primary-blue-color" @click="changethev">Home</RouterLink></li>
+        <li><RouterLink to="/about" @click="changethev" class="text-main-list-color text-lg font-bold cursor-pointer hover:text-primary-blue-color duration-500">About</RouterLink></li>
+        <li><RouterLink to="/Projects" @click="changethev" class="text-main-list-color text-lg font-bold cursor-pointer hover:text-primary-blue-color duration-500">Projects</RouterLink></li>
+        <li ><RouterLink to="/Contact" @click="changethev" class="text-main-list-color text-lg font-bold cursor-pointer hover:text-primary-blue-color duration-500">Contact</RouterLink></li>
       </ul>
     </div>
   </div>

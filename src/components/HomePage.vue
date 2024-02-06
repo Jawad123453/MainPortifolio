@@ -33,7 +33,7 @@ import { RouterLink } from 'vue-router';
 <style scoped>
 @media (max-width:550px) {
   .bigone{
-    height:calc(100vh + 150px);
+    height:calc(100vh + 100px);
   }
 }
 .mainimg{

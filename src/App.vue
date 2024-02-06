@@ -1,12 +1,19 @@
 <script setup>
 import {  RouterView } from 'vue-router'
 import Header from "./components/Header.vue"
+
+
+// const activateChildFunction = ()=> {
+//   $refs.childRef.changeittofalse();
+//   console.log("yes")
+// }
 </script>
 
 <template>
   <div class="min-h-screen bg-primary-bcground-color">
-    <Header />
-    <RouterView v-slot="{ Component }">
+    <Header ref="childRef"/>
+    <RouterView v-slot="{ Component }" >
+      <!-- @click="activateChildFunction" -->
       <transition name="scale" mode="out-in">
         <component :is="Component" />
       </transition>

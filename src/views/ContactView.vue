@@ -2,7 +2,7 @@
   <div class="min-h-screen bg-big-blue-color">
     <h1 class="tiltle anyanmitaion">Contact <span class="text-primary-blue-color">Me!</span></h1>
     <ContactMeVue />
-    <Footer class="sm:absolute sm:bottom-0 sm:left-0"/>
+    <Footer class="sm:absolute sm:bottom-0 sm:left-0 "/>
   </div>
 </template>
 
